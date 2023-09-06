@@ -31,8 +31,6 @@ http://181.78.24.67:8010/play/a02r/index.m3u8
 http://181.78.24.67:8010/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 - Caracol-6012" tvg-logo="" group-title="JWACTV - Main Playlist",15 - Caracol-6012
 http://181.78.24.67:8010/play/a02p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 - Caracol HD" tvg-logo="" group-title="JWACTV - Main Playlist",16 - Caracol HD
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17 - Cartoon Network HD-6013" tvg-logo="" group-title="JWACTV - Main Playlist",17 - Cartoon Network HD-6013
 http://181.78.24.67:8010/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18 - Cinecanal HD-6015" tvg-logo="" group-title="JWACTV - Main Playlist",18 - Cinecanal HD-6015
