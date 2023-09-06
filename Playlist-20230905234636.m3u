@@ -1,0 +1,187 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="01 - A&E HD-6000" tvg-logo="" group-title="JWACTV - Main Playlist",01 - A&E HD-6000
+http://181.78.24.67:8010/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="02 - AMC HD-6001" tvg-logo="" group-title="JWACTV - Main Playlist",02 - AMC HD-6001
+http://181.78.24.67:8010/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="03 - ATRES SERIES HD-6004" tvg-logo="" group-title="JWACTV - Main Playlist",03 - ATRES SERIES HD-6004
+http://181.78.24.67:8010/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="04 - AXN HD-6005" tvg-logo="" group-title="JWACTV - Main Playlist",04 - AXN HD-6005
+http://181.78.24.67:8010/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="05 - Animal Planet HD-6002" tvg-logo="" group-title="JWACTV - Main Playlist",05 - Animal Planet HD-6002
+http://181.78.24.67:8010/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 - Antena 3-6003" tvg-logo="" group-title="JWACTV - Main Playlist",06 - Antena 3-6003
+http://181.78.24.67:8010/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="07 - Baby TV-6006" tvg-logo="" group-title="JWACTV - Main Playlist",07 - Baby TV-6006
+http://181.78.24.67:8010/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 - CDO Premium-6014" tvg-logo="" group-title="JWACTV - Main Playlist",08 - CDO Premium-6014
+http://181.78.24.67:8010/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="09 - CNN Español-6019" tvg-logo="" group-title="JWACTV - Main Playlist",09 - CNN Español-6019
+http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="09 - CNN International-6020" tvg-logo="" group-title="JWACTV - Main Playlist",09 - CNN International-6020
+http://181.78.24.67:8010/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 - Canal  Capital-6007" tvg-logo="" group-title="JWACTV - Main Playlist",10 - Canal  Capital-6007
+http://181.78.24.67:8010/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11 - Canal 1-6008" tvg-logo="" group-title="JWACTV - Main Playlist",11 - Canal 1-6008
+http://181.78.24.67:8010/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 - Canal Institucional HD-6010" tvg-logo="" group-title="JWACTV - Main Playlist",12 - Canal Institucional HD-6010
+http://181.78.24.67:8010/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 - Canal TRO-6011" tvg-logo="" group-title="JWACTV - Main Playlist",13 - Canal TRO-6011
+http://181.78.24.67:8010/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 - Canal del Congreso-6009" tvg-logo="" group-title="JWACTV - Main Playlist",14 - Canal del Congreso-6009
+http://181.78.24.67:8010/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 - Caracol-6012" tvg-logo="" group-title="JWACTV - Main Playlist",15 - Caracol-6012
+http://181.78.24.67:8010/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 - Caracol HD" tvg-logo="" group-title="JWACTV - Main Playlist",16 - Caracol HD
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17 - Cartoon Network HD-6013" tvg-logo="" group-title="JWACTV - Main Playlist",17 - Cartoon Network HD-6013
+http://181.78.24.67:8010/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="18 - Cinecanal HD-6015" tvg-logo="" group-title="JWACTV - Main Playlist",18 - Cinecanal HD-6015
+http://181.78.24.67:8010/play/a05l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19 - Cinemax HD-6016" tvg-logo="" group-title="JWACTV - Main Playlist",19 - Cinemax HD-6016
+http://181.78.24.67:8010/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20 - City TV-6017" tvg-logo="" group-title="JWACTV - Main Playlist",20 - City TV-6017
+http://181.78.24.67:8010/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21 - Clover HD-6018" tvg-logo="" group-title="JWACTV - Main Playlist",21 - Clover HD-6018
+http://181.78.24.67:8010/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="22 - Comedy Central HD-6021" tvg-logo="" group-title="JWACTV - Main Playlist",22 - Comedy Central HD-6021
+http://181.78.24.67:8010/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23 - Cristovisión-6022" tvg-logo="" group-title="JWACTV - Main Playlist",23 - Cristovisión-6022
+http://181.78.24.67:8010/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 - Discovery Channel-6023" tvg-logo="" group-title="JWACTV - Main Playlist",24 - Discovery Channel-6023
+http://181.78.24.67:8010/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="25 - Discovery H&H HD-6024" tvg-logo="" group-title="JWACTV - Main Playlist",25 - Discovery H&H HD-6024
+http://181.78.24.67:8010/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="26 - Discovery Kids HD-6025" tvg-logo="" group-title="JWACTV - Main Playlist",26 - Discovery Kids HD-6025
+http://181.78.24.67:8010/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="27 - Discovery Theater HD-6026" tvg-logo="" group-title="JWACTV - Main Playlist",27 - Discovery Theater HD-6026
+http://181.78.24.67:8010/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="28 - Discovery World HD-6027" tvg-logo="" group-title="JWACTV - Main Playlist",28 - Discovery World HD-6027
+http://181.78.24.67:8010/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="29 - Disney HD-6028" tvg-logo="" group-title="JWACTV - Main Playlist",29 - Disney HD-6028
+http://181.78.24.67:8010/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30 - Disney Junior-6029" tvg-logo="" group-title="JWACTV - Main Playlist",30 - Disney Junior-6029
+http://181.78.24.67:8010/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="31 - E! Entertainment TV-6030" tvg-logo="" group-title="JWACTV - Main Playlist",31 - E! Entertainment TV-6030
+http://181.78.24.67:8010/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="32 - ESPN HD-6036" tvg-logo="" group-title="JWACTV - Main Playlist",32 - ESPN HD-6036
+http://181.78.24.67:8010/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="33 - ESPN 2-6037" tvg-logo="" group-title="JWACTV - Main Playlist",33 - ESPN 2-6037
+http://181.78.24.67:8010/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="34 - ESPN 3 HD-6033" tvg-logo="" group-title="JWACTV - Main Playlist",34 - ESPN 3 HD-6033
+http://181.78.24.67:8010/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="35 - ESPN 4 HD-6034" tvg-logo="" group-title="JWACTV - Main Playlist",35 - ESPN 4 HD-6034
+http://181.78.24.67:8010/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="36 - ESPN EXTRA HD-6035" tvg-logo="" group-title="JWACTV - Main Playlist",36 - ESPN EXTRA HD-6035
+http://181.78.24.67:8010/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="37 - EWTN-6038" tvg-logo="" group-title="JWACTV - Main Playlist",37 - EWTN-6038
+http://181.78.24.67:8010/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38 - El Gourmet HD-6031" tvg-logo="" group-title="JWACTV - Main Playlist",38 - El Gourmet HD-6031
+http://181.78.24.67:8010/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="40 - Enlace-6032" tvg-logo="" group-title="JWACTV - Main Playlist",40 - Enlace-6032
+http://181.78.24.67:8010/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="41 - Epoca" tvg-logo="" group-title="JWACTV - Main Playlist",41 - Epoca
+http://181.78.24.67:8010/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="42 - Eurochannel" tvg-logo="" group-title="JWACTV - Main Playlist",42 - Eurochannel
+http://181.78.24.67:8010/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43 - FOX Sports 1-6039" tvg-logo="" group-title="JWACTV - Main Playlist",43 - FOX Sports 1-6039
+http://181.78.24.67:8010/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="44 - FOX Sports 2 HD-6040" tvg-logo="" group-title="JWACTV - Main Playlist",44 - FOX Sports 2 HD-6040
+http://181.78.24.67:8010/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="45 - FOX Sports 3 HD-6041" tvg-logo="" group-title="JWACTV - Main Playlist",45 - FOX Sports 3 HD-6041
+http://181.78.24.67:8010/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="46 - FX HD-6042" tvg-logo="" group-title="JWACTV - Main Playlist",46 - FX HD-6042
+http://181.78.24.67:8010/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="47 - HBO HD-6045" tvg-logo="" group-title="JWACTV - Main Playlist",47 - HBO HD-6045
+http://181.78.24.67:8010/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="48 - HBO SD-6048" tvg-logo="" group-title="JWACTV - Main Playlist",48 - HBO SD-6048
+http://181.78.24.67:8010/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="49 - HBO 2 HD-6043" tvg-logo="" group-title="JWACTV - Main Playlist",49 - HBO 2 HD-6043
+http://181.78.24.67:8010/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="50 - HBO POP HD-6047" tvg-logo="" group-title="JWACTV - Main Playlist",50 - HBO POP HD-6047
+http://181.78.24.67:8010/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="51 - HBO Plus-6046" tvg-logo="" group-title="JWACTV - Main Playlist",51 - HBO Plus-6046
+http://181.78.24.67:8010/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="52 - HBO Signature-6049" tvg-logo="" group-title="JWACTV - Main Playlist",52 - HBO Signature-6049
+http://181.78.24.67:8010/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="53 - HBO Family-6044" tvg-logo="" group-title="JWACTV - Main Playlist",53 - HBO Family-6044
+http://181.78.24.67:8010/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="54 - HBO XTREME-6050" tvg-logo="" group-title="JWACTV - Main Playlist",54 - HBO XTREME-6050
+http://181.78.24.67:8010/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="55 - History 2-6051" tvg-logo="" group-title="JWACTV - Main Playlist",55 - History 2-6051
+http://181.78.24.67:8010/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="56 - History Channel HD-6052" tvg-logo="" group-title="JWACTV - Main Playlist",56 - History Channel HD-6052
+http://181.78.24.67:8010/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="57 - ID HD-6053" tvg-logo="" group-title="JWACTV - Main Playlist",57 - ID HD-6053
+http://181.78.24.67:8010/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="58 - Kanal D Drama HD-6054" tvg-logo="" group-title="JWACTV - Main Playlist",58 - Kanal D Drama HD-6054
+http://181.78.24.67:8010/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="59 - La Red HD-6055" tvg-logo="" group-title="JWACTV - Main Playlist",59 - La Red HD-6055
+http://181.78.24.67:8010/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="60 - MAS CHIC-6056" tvg-logo="" group-title="JWACTV - Main Playlist",60 - MAS CHIC-6056
+http://181.78.24.67:8010/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="61 - MEGA HD-6057" tvg-logo="" group-title="JWACTV - Main Playlist",61 - MEGA HD-6057
+http://181.78.24.67:8010/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="62 - MTV LIVE HD-6063" tvg-logo="" group-title="JWACTV - Main Playlist",62 - MTV LIVE HD-6063
+http://181.78.24.67:8010/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="63 - MTV-6057" tvg-logo="" group-title="JWACTV - Main Playlist",63 - MTV-6057
+http://181.78.24.67:8010/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="64 - Nat Geo HD-6058" tvg-logo="" group-title="JWACTV - Main Playlist",64 - Nat Geo HD-6058
+http://181.78.24.67:8010/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="65 - National Geographic-6059" tvg-logo="" group-title="JWACTV - Main Playlist",65 - National Geographic-6059
+http://181.78.24.67:8010/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="66 - Nick HD-6060" tvg-logo="" group-title="JWACTV - Main Playlist",66 - Nick HD-6060
+http://181.78.24.67:8010/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="67 - Paramount HD-6061" tvg-logo="" group-title="JWACTV - Main Playlist",67 - Paramount HD-6061
+http://181.78.24.67:8010/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="68 - Pasiones HD-6062" tvg-logo="" group-title="JWACTV - Main Playlist",68 - Pasiones HD-6062
+http://181.78.24.67:8010/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="69 - STAR CHANNEL HD-6067" tvg-logo="" group-title="JWACTV - Main Playlist",69 - STAR CHANNEL HD-6067
+http://181.78.24.67:8010/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="70 - Sony HD-6065" tvg-logo="" group-title="JWACTV - Main Playlist",70 - Sony HD-6065
+http://181.78.24.67:8010/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71 - Space HD-6066" tvg-logo="" group-title="JWACTV - Main Playlist",71 - Space HD-6066
+http://181.78.24.67:8010/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="72 - Studio Universal HD-6068" tvg-logo="" group-title="JWACTV - Main Playlist",72 - Studio Universal HD-6068
+http://181.78.24.67:8010/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="73 - Sun Channel HD-6069" tvg-logo="" group-title="JWACTV - Main Playlist",73 - Sun Channel HD-6069
+http://181.78.24.67:8010/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="74 - SyFy-6070" tvg-logo="" group-title="JWACTV - Main Playlist",74 - SyFy-6070
+http://181.78.24.67:8010/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="75 - TBS Very Funny-6071" tvg-logo="" group-title="JWACTV - Main Playlist",75 - TBS Very Funny-6071
+http://181.78.24.67:8010/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="76 - TLC-6075" tvg-logo="" group-title="JWACTV - Main Playlist",76 - TLC-6075
+http://181.78.24.67:8010/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="78 - TNT HD-6076" tvg-logo="" group-title="JWACTV - Main Playlist",78 - TNT HD-6076
+http://181.78.24.67:8010/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="79 - TNT SPORTS HD-6078" tvg-logo="" group-title="JWACTV - Main Playlist",79 - TNT SPORTS HD-6078
+http://181.78.24.67:8010/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="80 - TNT Series HD-6077" tvg-logo="" group-title="JWACTV - Main Playlist",80 - TNT Series HD-6077
+http://181.78.24.67:8010/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="81 - TVE-681" tvg-logo="" group-title="JWACTV - Main Playlist",81 - TVE-681
+http://181.78.24.67:8010/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="82 - Teleantioquia" tvg-logo="" group-title="JWACTV - Main Playlist",82 - Teleantioquia
+http://181.78.24.67:8010/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="83 - Telecafe" tvg-logo="" group-title="JWACTV - Main Playlist",83 - Telecafe
+http://181.78.24.67:8010/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="84 - Telecaribe" tvg-logo="" group-title="JWACTV - Main Playlist",84 - Telecaribe
+http://181.78.24.67:8010/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="85 - Telenovelas-6072" tvg-logo="" group-title="JWACTV - Main Playlist",85 - Telenovelas-6072
+http://181.78.24.67:8010/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="86 - Telepacifico" tvg-logo="" group-title="JWACTV - Main Playlist",86 - Telepacifico
+http://181.78.24.67:8010/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="87 - Travelxp HD-6080" tvg-logo="" group-title="JWACTV - Main Playlist",87 - Travelxp HD-6080
+http://181.78.24.67:8010/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="88 - UNIVERSAL CHANNEL HD-6082" tvg-logo="" group-title="JWACTV - Main Playlist",88 - UNIVERSAL CHANNEL HD-6082
+http://181.78.24.67:8010/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="89 - Warner Channel HD-6083" tvg-logo="" group-title="JWACTV - Main Playlist",89 - Warner Channel HD-6083
+http://181.78.24.67:8010/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90 - Win Sports HD-6084" tvg-logo="" group-title="JWACTV - Main Playlist",90 - Win Sports HD-6084
+http://181.78.24.67:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="91 - Win Sports+ HD" tvg-logo="" group-title="JWACTV - Main Playlist",91 - Win Sports+ HD
+http://181.78.24.67:8010/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - Playboy HD" tvg-logo="" group-title="JWACTV - Main Playlist",XXX - Playboy HD
+http://181.78.24.67:8010/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - Sextreme" tvg-logo="" group-title="JWACTV - Main Playlist",XXX - Sextreme
+http://181.78.24.67:8010/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - Venus" tvg-logo="" group-title="JWACTV - Main Playlist",XXX - Venus
+http://181.78.24.67:8010/play/a01l/index.m3u8
